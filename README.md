@@ -20,7 +20,7 @@ O sistema permite a criação, organização e revisão de cartões de estudo, a
 - ✅ **Criação de Decks:** Organização de flashcards por temas ou categorias.
 - ✅ **Gerenciamento de Cartões:** Adicionar, listar, editar e remover perguntas e respostas.
 - ✅ **Sistema de Revisão:** Interface para o usuário testar seus conhecimentos.
-- ✅ **Persistência de Dados:** (Opcional) Armazenamento das informações para uso contínuo.
+- ✅ **Persistência de Dados:** Armazenamento das informações para uso contínuo.
 
 ---
 
