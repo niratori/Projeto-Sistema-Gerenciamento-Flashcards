@@ -47,4 +47,4 @@ Este projeto foi construído de forma colaborativa pelos seguintes autores:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/niratori/nome-do-repositorio.git](https://github.com/niratori/nome-do-repositorio.git)
+   git clone https://github.com/niratori/Projeto-Sistema-Gerenciamento-Flashcards.git
