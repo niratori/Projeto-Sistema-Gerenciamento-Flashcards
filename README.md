@@ -1,7 +1,7 @@
 <h1 align="center">🗂️ Sistema de Gerenciamento de Flashcards</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Course-JavaScript%20LionsDevs-yellow?style=for-the-badge" />
 </p>
 
@@ -47,4 +47,4 @@ Este projeto foi construído de forma colaborativa pelos seguintes autores:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/niratori/nome-do-repositorio.git](https://github.com/niratori/nome-do-repositorio.git)
+   git clone https://github.com/niratori/Projeto-Sistema-Gerenciamento-Flashcards.git
